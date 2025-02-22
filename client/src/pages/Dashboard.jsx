@@ -1,8 +1,9 @@
+import { Navbar } from 'flowbite-react'
 import React from 'react'
 
 function Dashboard() {
   return (
-    <div>Dashboard</div>
+    <div>dashboard</div>
   )
 }
 
